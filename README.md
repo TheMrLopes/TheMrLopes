@@ -1,16 +1,54 @@
-## Hi there 👋
+# Ivan Diego Guimarães Lopes
 
-<!--
-**TheMrLopes/TheMrLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend / Cibersegurança`**
 
-Here are some ideas to get you started:
+**`Backend Developer / Cybersecurity`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, me chamo Ivan Diego Guimarães Lopes, tenho 24 anos e moro no ES, mas sou mineiro uai. Sou técnico em Automação Industrial pelo IFES e, atualmente, divido meus estudos em duas frentes na Estácio: estou na reta final de Engenharia Elétrica (com previsão de formatura para o final de 2026) e no primeiro período de Análise e Desenvolvimento de Sistemas (ADS). Trabalho como eletricista de carreira, mas sempre tive uma paixão genuína por programação. Por isso, decidi dar o passo definitivo e transicionar minha carreira para a área de tecnologia. Dentro desse universo, me encontrei de verdade na área de **Cibersegurança**, que é o meu grande foco de especialização para o futuro.
+
+Hi, I'm Ivan Diego Guimarães Lopes, I'm a 24-year-old tech enthusiast living in Espírito Santo - Brazil, but I've borned in Minas Gerais. I hold a technical degree in Industrial Automation from IFES. Currently, I am pursuing two degrees at Estácio: Electrical Engineering (set to graduate by late 2026) and Analysis and Systems Development (currently in my first semester). I've built my background as a professional electrician, but coding has always been my true passion. Right now, I am actively transitioning my career into the tech industry. Within this massive world, I’ve found my true calling in **Cybersecurity**, which is my main focus for the future.
+
+---
+
+###  Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+### Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=TheMrLopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrLopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
