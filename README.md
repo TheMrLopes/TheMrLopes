@@ -43,22 +43,6 @@ Hi, I'm Ivan Diego Guimarães Lopes, I'm a 24-year-old tech enthusiast living in
 
 ### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=themrlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=themrlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-
 </p>
 <p align="left">
   <img 
